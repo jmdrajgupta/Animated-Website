@@ -3,7 +3,7 @@
 gsap.to(".image-container",{
     ease:Expo.easeInOut,
     width:"100%",
-    duration:2,
+    duration:3,
     stagger:2
     
 })
